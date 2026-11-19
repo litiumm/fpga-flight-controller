@@ -1,0 +1,7 @@
+build/
+__pycache__/
+results/*.vcd
+results/*.csv
+results/pnr_report.json
+*.docx
+*.jpeg

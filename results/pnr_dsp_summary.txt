@@ -1,0 +1,6 @@
+Info: 	                LUT4:    1114/   8640    12%
+Info: 	                 ALU:     522/   6480     8%
+Info: 	                 DFF:     634/   6480     9%
+Info: 	           MULT18X18:       1/     20     5%
+Info: Max frequency for clock 'u_pid.clk': 68.12 MHz (PASS at 27.00 MHz)
+Info: Max frequency for clock 'u_pid.clk': 57.14 MHz (PASS at 27.00 MHz)

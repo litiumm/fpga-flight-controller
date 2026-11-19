@@ -1,0 +1,35 @@
+
+8. Printing statistics.
+
+=== hil_top ===
+
+        +----------Local Count, excluding submodules.
+        | 
+     4748 wires
+     7198 wire bits
+     4748 public wires
+     7198 public wire bits
+        7 ports
+       12 port bits
+     5224 cells
+        6   $scopeinfo
+      503   ALU
+       35   DFF
+      110   DFFE
+       22   DFFR
+      409   DFFRE
+        4   DFFS
+       54   DFFSE
+        1   GND
+        3   IBUF
+      307   LUT1
+      332   LUT2
+      434   LUT3
+     1556   LUT4
+      891   MUX2_LUT5
+      347   MUX2_LUT6
+      146   MUX2_LUT7
+       54   MUX2_LUT8
+        9   OBUF
+        1   VCC
+
